@@ -1,4 +1,5 @@
-# Algorithm for QR Decomposition
+# EXP-8 Algorithm for QR Decomposition
+## Date: 17.10.2023
 ## Aim:
 To implement QR decomposition algorithm using the Gram-Schmidt method.
 ## Equipment’s required:
